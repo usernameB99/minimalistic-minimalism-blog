@@ -140,7 +140,7 @@ img {
 }
 
 .author-caption {
-    font-style: italic;
+    /* font-style: italic; */
     text-align: center;
     font-size: 18px;
     font-family: 'Allura';
@@ -248,12 +248,12 @@ input[type = "text"]{
 
 .caption{
     font-family: 'Allura';
-    font-style: italic;
+    /* font-style: italic; */
 }
 
 .avatar-content{
     font-family: 'Allura';
-    font-style: italic;
+    /* font-style: italic; */
 }
 
 footer{
@@ -370,3 +370,7 @@ html{
 #myBtn:hover {
     background-color: #555;
 }
+
+/* .content-container{
+    max-width: 90%;
+} */
